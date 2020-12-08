@@ -9,7 +9,7 @@
 def select_winner(passengers)
   # add the code snippet here!
   
-  return select_winner[:suite_a]
+
   
  select_winner.each do |suite_a, "Amanda Presley"|
   puts "#{suite_a}: #{"Amanda Presley"}"
