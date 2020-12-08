@@ -11,6 +11,6 @@ def select_winner(passengers)
   
  
 passengers.each do |suite_a, Amanda Presley|
-  puts "#{suite_a}: #{"Amanda Presley"}"
+  puts "#{suite_a}: #{Amanda Presley}"
   
 end
